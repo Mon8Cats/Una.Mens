@@ -1,0 +1,17 @@
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.csproj.AssemblyReference.cache
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.AssemblyInfoInputs.cache
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.AssemblyInfo.cs
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.csproj.CoreCompileInputs.cache
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/MyClient
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/MyClient.deps.json
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/MyClient.runtimeconfig.json
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/MyClient.dll
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/ref/MyClient.dll
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/MyClient.pdb
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/bin/Debug/net6.0/IdentityModel.dll
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.csproj.CopyComplete
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.dll
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/ref/MyClient.dll
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.pdb
+/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/Debug/net6.0/MyClient.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcFjxEyIlbN46f4eajJE1vCTzLVIOGn8Cx+t6W4VVNRmKBePV/XXP2xFDe+GlKWiWAOzvWtr5OS3Y7SpBaM8vw==",
+  "success": true,
+  "projectFilePath": "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyWebClient/MyWebClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/stoneroot/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/6.0.5/microsoft.aspnetcore.authentication.openidconnect.6.0.5.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/stoneroot/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

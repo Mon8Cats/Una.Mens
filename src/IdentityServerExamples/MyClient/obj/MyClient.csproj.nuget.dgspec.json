@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/MyClient.csproj": {}
+  },
+  "projects": {
+    "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/MyClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/MyClient.csproj",
+        "projectName": "MyClient",
+        "projectPath": "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/MyClient.csproj",
+        "packagesPath": "/Users/stoneroot/.nuget/packages/",
+        "outputPath": "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stoneroot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/stoneroot/packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

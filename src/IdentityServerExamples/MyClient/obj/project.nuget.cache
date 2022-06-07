@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQcdGrdS4iCoHGABipOSWROYT3lU9FOW2YZAoA26bZu8QhLaayRp1Cck+rOzlkCbHZkmP3xFvvCnMZkvZwnOnA==",
+  "success": true,
+  "projectFilePath": "/Users/stoneroot/Work.Space/DotNet_Works/Una.Mens/src/IdentityServerExamples/MyClient/MyClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/stoneroot/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
